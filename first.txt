@@ -9,5 +9,8 @@ git add filename (to change working directory into staging area)
 git status
 git add filename
 git commit -m "change" (to change into local repo)
+
 git status
+local repo ma vako file matra modified aauxa
    directory clean (wd and lr in same level)
+hy!
