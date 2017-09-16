@@ -1,0 +1,6 @@
+git config --global user.name "nisha"
+git config --global user.email "bhattarainisha11@gmail.com"
+git config --list
+
+working directory, staging area, local repo
+ abcd
