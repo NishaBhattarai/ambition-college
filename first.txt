@@ -18,3 +18,5 @@ local repo ma vako file matra modified aauxa
 git add . (dherai ota file add garne)
 git rm -f filename (delete file)
 git reset filename(staging area ma vako file ho vane untracked hunxa)
+git commit -am "message" (to add and message)
+git log (history dekhauxa)
