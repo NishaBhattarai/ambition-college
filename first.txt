@@ -20,3 +20,5 @@ git rm -f filename (delete file)
 git reset filename(staging area ma vako file ho vane untracked hunxa)
 git commit -am "message" (to add and message)
 git log (history dekhauxa)
+git checkout log_number (jun number lekhyo tyo file ma lanxa)
+abcd
