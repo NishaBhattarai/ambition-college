@@ -1,16 +1,20 @@
 git config --global user.name "nisha"
 git config --global user.email "bhattarainisha11@gmail.com"
 git config --list
-
+config garena vane add garna dinxa tara commit garna didaina
+git init
 working directory, staging area, local repo
  
 git status
 git add filename (to change working directory into staging area)
-git status
-git add filename
+git status (untracked file aauxa)
+git add filename (file staging ma janxa, tracked hunxa)
+git status (green aauxa ani file staging ma xa vane bujhinxa)
 git commit -m "change" (to change into local repo)
 
 git status
 local repo ma vako file matra modified aauxa
    directory clean (wd and lr in same level)
 git add . (dherai ota file add garne)
+git rm -f filename (delete file)
+git reset filename(staging area ma vako file ho vane untracked hunxa)
